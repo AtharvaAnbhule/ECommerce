@@ -1,8 +1,4 @@
-# 📦 eShopOnWeb - ASP.NET Core Reference Application
-
-A sample **ASP.NET Core 8.0** web application built and maintained by **YOUR_NAME**, demonstrating clean architecture, layered design, and modern web development patterns.
-
-> ⚠ This is a demo / educational project, **not** a production-ready e-commerce system.
+# 📦 ECommerce - ASP.NET Core Reference Application
 
 ---
 
@@ -52,7 +48,7 @@ Edit
 Clone repository:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB/eShopOnWeb.git
+git clone https://github.com/AtharvaAnbhule/ECommerce.git
 cd eShopOnWeb
 Install dependencies & tools:
 
@@ -106,7 +102,7 @@ bash
 Copy
 Edit
 azd auth login
-azd init -t dotnet-architecture/eShopOnWeb
+azd init -t dotnet-architecture/ECommerce 
 azd up
 📚 Learn More
 This project is inspired by modern .NET architecture patterns, clean code principles, and the free eBook on architecting ASP.NET Core web apps.
@@ -123,11 +119,6 @@ Open an issue or submit a PR if you'd like to help.
 
 
 
----
-
-✅ Replace:
-- `YOUR_NAME` → your real name or display name
-- `YOUR_GITHUB` → your GitHub username
 
 If you want,
 📌 I can also add:
@@ -135,6 +126,4 @@ If you want,
 ✅ Project logo / screenshot
 ✅ Fancy header
 
-Just say:
-> “make fancy README with badges” or “add screenshot section” 🚀
-```
+
